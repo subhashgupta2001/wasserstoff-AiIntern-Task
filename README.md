@@ -24,4 +24,4 @@
 * JSON returned summaries and keywords are stored in MongoDB. Handling errors when the PDF is not supported or corrupted in order not to corrupt the data.
 
 ### Concurrency & Performance:
-*The concurrent process for handling multiple PDFs by multiplexing large files and documents in high volume. It will be measured in both processing time and scalability performance.
+* The concurrent process for handling multiple PDFs by multiplexing large files and documents in high volume. It will be measured in both processing time and scalability performance.
